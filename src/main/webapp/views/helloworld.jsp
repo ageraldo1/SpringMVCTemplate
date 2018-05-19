@@ -20,7 +20,7 @@ Model Message : ${message}
 
 
 <hr>
-	<a href="/SpringMVCTemplate"> Return to Main Menu</a>
+	<a href="/SpringMVCTemplate"> Return to Main Menu</a>    
 
 </body>
 </html>
