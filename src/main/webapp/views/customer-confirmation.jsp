@@ -18,6 +18,9 @@
 		
 		Postal Code: ${customer.postalCode}
 		<br><br>
+
+		Course Code: ${customer.courseCode}
+		<br><br>
 		
 		<hr>
 			<a href="/SpringMVCTemplate"> Return to Main Menu</a>  
