@@ -9,9 +9,16 @@
 	</head>
 	
 	<body>
-		The customer is confirmed : ${customer.firstName} ${customer.lastName} 
+		The customer is confirmed : ${customer.firstName} ${customer.lastName}  
 		
 		<br><br>
+		
+		Free spaces: ${customer.freePasses}
+		<br><br>
+		
+		Postal Code: ${customer.postalCode}
+		<br><br>
+		
 		<hr>
 			<a href="/SpringMVCTemplate"> Return to Main Menu</a>  
 	</body>
